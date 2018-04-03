@@ -1,0 +1,2 @@
+Conversão de base n para m de numeros até base 36
+com identificação e tratamento de maiusculas e minusculas
